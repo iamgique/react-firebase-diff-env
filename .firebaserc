@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "react-fb-diff-env-prod",
+    "dev": "react-fb-diff-env-dev",
+    "prod": "react-fb-diff-env-prod"
+  }
+}
