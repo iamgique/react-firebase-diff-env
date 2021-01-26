@@ -3,6 +3,9 @@
 This project is doing for support the article and try to config different Firebase env with react.
 So, you can also read on Medium
 
+![Screenshot](https://cdn-images-1.medium.com/max/1600/1*03RyFSlJpItthbHefVLvvA.png)
+
+
 # How to run
 `npm install`
 
